@@ -1,0 +1,18 @@
+button {
+    background-color: blue;
+}
+
+.novaClasse {
+    background-color: red;
+    height: 50px;
+    color: white;
+}
+
+.classeAntiga {
+    background-color: green;
+}
+
+.classeAtivada {
+    border: 10px solid blue;
+    border-radius: 30px;
+}
